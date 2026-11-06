@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+supportai.db
+supportai.db-journal
+supportai.db-shm
+supportai.db-wal
